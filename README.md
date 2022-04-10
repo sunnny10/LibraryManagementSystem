@@ -9,11 +9,12 @@
 
 * 개발 환경
 
-Language : Java
+  Language : Java
 
-Tool : Eclipse, AmaterasUML
+  Tool : Eclipse, AmaterasUML
 
-User Interface : console
+  User Interface : console
+
 
 
 * 프로젝트 개요 및 목적
@@ -21,6 +22,7 @@ User Interface : console
  관리자와 회원 계정을 분리하여 효율적인 도서 관리 프로그램을 개발한다. 관리자는 시스템을 통해 회원 관리와 도서 관리가 가능하다. 회원은 도서와 관련한 서비스를 제공받을 수 있다. 프로그램은 자바의 기본적인 문법과 IO 스트림을 활용하여 구현하는 것을 목표로 한다
  
  
+
 
 * 주요 기능
 
@@ -54,15 +56,22 @@ User Interface : console
 
 
 
+
 * workflow
 
 ![image](https://user-images.githubusercontent.com/100884647/162617859-690fefe8-02df-4157-a471-1e45aadcff5d.png)
 
 
 
+
 * Class Diagram
 
 ![image](https://user-images.githubusercontent.com/100884647/162617879-accfee80-6759-4d2a-ba03-eed2967b005e.png)
+
+
+* 도서관리 프로그램 시연 영상
+
+<iframe width="949" height="534" src="https://www.youtube.com/embed/59Jj67B8FKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
