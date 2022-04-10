@@ -10,11 +10,11 @@
 
 * 개발 환경
 
-  Language : Java
+  - Language : Java
 
-  Tool : Eclipse, AmaterasUML
+  - Tool : Eclipse, AmaterasUML
 
-  User Interface : console
+  - User Interface : console
 
 
 
@@ -47,7 +47,7 @@
       - 회원 로그아웃
       
       - 회원 조회
-      - 
+      
       - 도서 대여 내역 조회
       
       - 회원 탈퇴 
@@ -107,10 +107,17 @@
 
 
 
+
+
+
 * 보완점
+
+
 
 ① 객체지향에 대한 이해 부족
 : 입출력 부분과 비즈니스 로직을 완전히 분리해야 하는데, 아직 객체지향에 대한 개념이 부족하여 기능 클래스 내부에서 출력을 하는 문제점이 있었다. 또한 중복되는 코드가 있어 아쉬움이 있다. 이후 디자인 패턴을 학습하여 다음에는 좀 더 객체지향적인 코드를 구현하기 위해 노력할 것이다.
+
+
 
 
 ② 스트림 IO 이해 부족
